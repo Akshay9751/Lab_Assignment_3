@@ -15,7 +15,7 @@ html, body {
     padding: 20px;
     box-shadow: 0 2px 4px rgba(11, 10, 10, 0.715);
     border-radius: 20px;
-    background-color: #808baa; 
+    background-color: #9095a3; 
     text-align: center ;
 }
 
@@ -54,7 +54,7 @@ input[type="text"][disabled] {
 
 
 input[type="range"]::-webkit-slider-thumb {
-    -webkit-appearance: rgb(171, 17, 17);
+    -webkit-appearance: rgb(252, 250, 250);
     appearance: none;
     width: 15px; 
     height: 15px; 
